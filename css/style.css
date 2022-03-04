@@ -1,0 +1,77 @@
+/*Header Part Start*/
+.container-1{
+    background-color:  #155cfe;
+    border: 2px hidden red;
+    overflow: hidden;
+}
+
+.logo img{ /*Logo part*/
+    width: 50px;
+    margin-top: 5px ;
+    margin-left: 100px;
+    float: left;
+}
+
+.navbar{ /*navbar*/
+    float: right;
+    margin-top: 20px;
+    margin-right: 100px;
+    
+    }
+
+.navbar a{
+    margin-right: 50px;
+    color: antiquewhite;
+}
+/*Header Part End*/
+
+/*Section-2 Start*/
+.container-2{
+    border: 2px solid rgb(51, 9, 9);
+    overflow: hidden;
+}
+.rm img{
+    margin-top: 50px;
+    width: 400px;
+    margin-left: 50px;
+    float: left;
+    
+}
+
+.spc ul{
+    float: right;
+    margin-right: 200px;
+    margin-top: 70px;
+    background-color: #155cfe;
+    color: azure;
+}
+/*Section-2 End*/
+
+/*Section-3 Start*/
+
+.container-3{
+    border: 2px solid rgb(128, 175, 18);
+    overflow: hidden;
+}
+
+.engine img{
+    margin-left: 100px;
+    width: 200px;
+    float: left;
+    height: 200px;
+}
+
+.eng_desc{
+    float: left;
+}
+
+.wheel img{
+    float: left;
+    width: 250px;
+    height: 200px;
+}
+
+.wheeldsc li{
+    padding-left: 100px;
+    margin-left: 20px;
+}
